@@ -23,9 +23,7 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 ## 📸 Screenshots
 
-![Game UI](![TicTac](https://github.com/user-attachments/assets/4eff20da-33e2-4b31-871f-eaff69910eba)
- )
-)  
 
+![TicTac](https://github.com/user-attachments/assets/9d6b95d6-410c-4410-9556-bd3cc016529f)
 
 
