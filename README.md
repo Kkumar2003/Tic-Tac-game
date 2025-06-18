@@ -21,6 +21,11 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 ---
 
+## 🔗 Live Demo
+
+[🚀 View it here!](https://tic-tac-game-iota.vercel.app/)
+
+
 ## 📸 Screenshots
 
 
